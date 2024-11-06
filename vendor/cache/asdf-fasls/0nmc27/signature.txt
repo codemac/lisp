@@ -1,0 +1,4 @@
+lisp-implementation-type: SBCL
+lisp-implementation-version: 2.4.1
+machine-type: X86-64
+machine-version: Intel(R) Core(TM) i9-9980HK CPU @ 2.40GHz

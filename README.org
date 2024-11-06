@@ -1,3 +1,15 @@
 * codemac/lisp
+:PROPERTIES:
+:ID:       640CCBCE-345A-417F-8749-AD66E062C7F1
+:END:
 
 Personal monorepo of lisp
+
+* installation
+:PROPERTIES:
+:ID:       C36018EB-431C-4600-9E28-C5E607ABBEE5
+:END:
+
+- install sbcl in your system
+- run `make build`
+- mov
